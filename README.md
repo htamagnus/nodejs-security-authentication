@@ -68,4 +68,3 @@ app.post('/rota-protegida', (req, res) => {
   res.redirect('/pagina-seguinte');
   });
 ~~~
-
